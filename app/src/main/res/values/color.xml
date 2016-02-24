@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="cellback">#0066cc</color>
+    <color name="android_blue">#F0F8FF</color>
+    <color name="transparent">#00000000</color>
+    <color name="light_blue">#E2FFFF</color>
+    <color name="light_green">#99FF99</color>
+    <color name="actionbar_text">#000000</color>
+
+    <!-- light blue -->
+    <color name="pressed_color">#00ffff</color>
+</resources>

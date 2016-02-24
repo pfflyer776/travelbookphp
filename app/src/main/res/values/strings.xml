@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TravelBook</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="new_travel">New Place</string>
+    <string name="delete_travel">Remove Place</string>    
+    <string name="travel_title">Travel Places</string>    
+    <string name="travel_location_label">Travel Place</string>
+    <string name="travel_location_hint">Enter Place Traveled.</string>
+    <string name="done">Done</string>   
+    <string name="take">Take!</string>
+    <string name="new_image">New Picture</string>    
+    <string name="show_subtitle">Add Place</string>
+</resources>
